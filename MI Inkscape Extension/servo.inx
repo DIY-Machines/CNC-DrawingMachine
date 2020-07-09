@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+    <_name>MI GRBL Z-AXIS Servo Controller</_name>
+    <id>youtube.com/c/mrinnovative</id>
+	<dependency type="executable" location="extensions">servo.py</dependency>
+	<dependency type="executable" location="extensions">inkex.py</dependency>
+
+	<param name="laser-command" type="string" _gui-text="Servo up:">M3</param>
+	<param name="laser-off-command" type="string" _gui-text="Servo down:">M5</param>
+	<param name="travel-speed" type="int" min="0" max="12000" _gui-text="X axis speed (mm/min):">1000</param>
+	<param name="laser-speed" type="int" min="0" max="4000" _gui-text="Y axis speed (mm/min):">500</param>
+	<param name="laser-power" type="int" min="0" max="10000" _gui-text="Angle for servo S# (0-180):">90</param>
+	<param name="power-delay" type="float" min="0" max="10" _gui-text="Delay (s):">1</param>	
+	<param name="directory" type="string" _gui-text="Directory:">C:\Users\Public</param>
+	<param name="filename" type="string" _gui-text="Filename:">servo.gcode</param>
+	<param name="add-numeric-suffix-to-filename" type="boolean" _gui-text="File name">true</param>
+
+  	<effect>
+		<effects-menu>
+			<submenu _name="MI GRBL Z-AXIS Servo Controller"/>
+		</effects-menu>
+		<object-type>path</object-type>
+  	</effect>
+
+	<script>
+		<command reldir="extensions" interpreter="python">servo.py</command>
+	</script>
+
+</inkscape-extension>
