@@ -9,7 +9,7 @@ This project has a relatively low cost and can produce some very detailed drawin
 
 ==========
 
-List of items used in this project and where to find them:
+## List of items used in this project and where to find them:
 
 ■ 8 x15 x 45mm Linear Bearing (x2): https://geni.us/LinearBearing45mm
 
@@ -45,7 +45,7 @@ List of items used in this project and where to find them:
 
 ■ Wooden panel to mount project at least 36x42cm (I used an Ikea ‘LÄMPLIG’ chopping board)
 
-# Nuts, bolts and screws needed:
+## Nuts, bolts and screws needed:
 
 ■ M5 x 25mm (x2)
 
