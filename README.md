@@ -20,17 +20,29 @@ List of items used in this project and where to find them:
 ■ GT2 Timing belt and pulleys: https://geni.us/TimingBelt5m
 
 ■ Micro servo (x1): https://geni.us/MicroServo
+
 ■ Elegoo Arduino Uno (x1): https://geni.us/ArduinoUno
+
 ■ Nuts, bolts and screws (See list below): https://geni.us/NutsAndBolts 
+
 ■ Stepper drivers - TMC2208 (x2): https://geni.us/TMC2208
+
 ■ Contact switch (x2): https://geni.us/ContactSwitch
+
 ■ Arduino CNC Shield (x1): https://geni.us/ArduinoCNCShield
+
 ■ 30mm 5V Fan (x1): https://geni.us/30mm5vFan
+
 ■ 8mm Chromed Steel Rod (35cm x2 & 5.5cm x1): https://geni.us/8mmChromedSteelRod  
+
 ■ 30cm long linear rail with block (x1): https://geni.us/LinearRail300mm
+
 ■ Electrical wire: https://geni.us/22AWGWire
+
 ■ 12v power supply - 2A or greater (x1): https://geni.us/12VPowerSupply2A
+
 ■ 6mm Idler Wheel - 3mm Bore (1): https://geni.us/6mmIdlerWheel3mmBore
+
 ■ Wooden panel to mount project at least 36x42cm (I used an Ikea ‘LÄMPLIG’ chopping board)
 
 Nuts, bolts and screws needed:
