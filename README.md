@@ -12,9 +12,13 @@ This project has a relatively low cost and can produce some very detailed drawin
 List of items used in this project and where to find them:
 
 ■ 8 x15 x 45mm Linear Bearing (x2): https://geni.us/LinearBearing45mm
+
 ■ 8 x 15 x 25mm Linear Bearing (x1): https://geni.us/LinearBearing25mm  
+
 ■ 12v Nema 17 stepper motors (x2): https://geni.us/StepperMotor
+
 ■ GT2 Timing belt and pulleys: https://geni.us/TimingBelt5m
+
 ■ Micro servo (x1): https://geni.us/MicroServo
 ■ Elegoo Arduino Uno (x1): https://geni.us/ArduinoUno
 ■ Nuts, bolts and screws (See list below): https://geni.us/NutsAndBolts 
