@@ -45,7 +45,7 @@ List of items used in this project and where to find them:
 
 ■ Wooden panel to mount project at least 36x42cm (I used an Ikea ‘LÄMPLIG’ chopping board)
 
-Nuts, bolts and screws needed:
+# Nuts, bolts and screws needed:
 
 ■ M5 x 25mm (x2)
 
