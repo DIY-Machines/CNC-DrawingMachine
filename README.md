@@ -66,7 +66,7 @@ This project has a relatively low cost and can produce some very detailed drawin
 
 ==========
 
-3D printed parts can be downloaded from here: [[to be uploaded]]
+3D printed parts can be downloaded from here: https://www.diymachines.co.uk/arduino-cnc-drawing-machine
 
 ==========
 
