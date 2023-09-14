@@ -1,5 +1,7 @@
 # MI-GRBL-Z-AXIS-Servo-Controller
 
+Upstream project: https://github.com/karlg100/MI-GRBL-Z-AXIS-Servo-Controller/tree/Inkscape-1.3
+
 ### Overview
 This plug-in allows for servo up or down.  Here is a description of the features of the plug-in.
 
